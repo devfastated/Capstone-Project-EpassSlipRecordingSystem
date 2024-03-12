@@ -1,8 +1,10 @@
-<script>
+    <script>
+        let user = "Romer Jasen Jimenez";
+        import "../app.css";
+    </script>
 
-</script>
 
+        <slot />
 
-<slot />
 
 
